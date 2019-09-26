@@ -1,1 +1,4 @@
-Test, file, space, for, CSV
+Field_Name, Data_Type, Length, Notes
+TestID,String,,Generic ID field
+First_Name,VarChar,50,User's first name
+Last_Name,VarChar,100,User's last name
