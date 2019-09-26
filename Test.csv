@@ -1,4 +1,5 @@
 Field_Name, Data_Type, Length, Notes
-TestID,String,,Generic ID field
-First_Name,VarChar,50,User's first name
-Last_Name,VarChar,100,User's last name
+TestID,String,,Generic ID
+First_Name,VarChar,50,User's First name
+Last_Name,VarChar,100,User's Last name
+Address,String,100,User's address
